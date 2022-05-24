@@ -1,26 +1,26 @@
 # Bionic Reading
 
-[Faster. Better. More focused. Reading.](https://bionic-reading.com/)
+[Inventor website - Bionic Reading](https://bionic-reading.com/)
 
 Was invented by [Renato Casutt](https://twitter.com/renato_casutt) (BR [twitter](https://twitter.com/bionicreading))
 
 ## Samples
 
-![Untitled](Bionic%20Reading%20f0994efb483d4d25b955b78be82a9cc8/Untitled.png)
+![Untitled](Untitled.png)
 
-![Untitled](Bionic%20Reading%20f0994efb483d4d25b955b78be82a9cc8/Untitled%201.png)
+![Untitled](Untitled%201.png)
 
 ## Legal
 
 GB patent ([GB2552586A](https://patentimages.storage.googleapis.com/96/4d/2b/749f7a4c791eea/GB2552586A.pdf)) and others (listen on the website)
 
-[GB2552586A.pdf](Bionic%20Reading%20f0994efb483d4d25b955b78be82a9cc8/GB2552586A.pdf)
+[GB2552586A.pdf](GB2552586A.pdf)
 
 ## Method of Operation
 
 *Retrieved from the patent*
 
-![Untitled](Bionic%20Reading%20f0994efb483d4d25b955b78be82a9cc8/Untitled%202.png)
+![Untitled](Untitled%202.png)
 
 The typefaces (Effra) mentioned are here:
 
@@ -28,7 +28,7 @@ The typefaces (Effra) mentioned are here:
 
 [Wide bold](https://bionic.staging.webulos.com/fonts/EffraWBold.otf)
 
-[BR-font.7z](Bionic%20Reading%20f0994efb483d4d25b955b78be82a9cc8/BR-font.7z)
+[BR-font.7z](BR-font.7z)
 
 ## Playground
 
