@@ -12,7 +12,7 @@ Was invented by [Renato Casutt](https://twitter.com/renato_casutt) (BR [twitter]
 
 ## Legal
 
-GB patent ([GB2552586A](https://patentimages.storage.googleapis.com/96/4d/2b/749f7a4c791eea/GB2552586A.pdf)) and others (listen on the website)
+GB patent ([GB2552586A](https://patentimages.storage.googleapis.com/96/4d/2b/749f7a4c791eea/GB2552586A.pdf)) and others (listed on the website)
 
 [GB2552586A.pdf](GB2552586A.pdf)
 
